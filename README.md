@@ -40,7 +40,7 @@ $("#nav-placeholder").load("navigation.html", function(){
  - [MDN HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
  - Also the other submission of the  project were also especially helpful as well.
 
-##Author
+## Author
 
     - Abhisek Niraula
     - Frontend Mentor - [Abhisek Niraula](https://www.frontendmentor.io/profile/AbhisekNiraula3615)
