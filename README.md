@@ -41,7 +41,6 @@ $("#nav-placeholder").load("navigation.html", function(){
  - Also the other submission of the  project were also especially helpful as well.
 
 ## Author
-
-    - Abhisek Niraula
-    - Frontend Mentor - [Abhisek Niraula](https://www.frontendmentor.io/profile/AbhisekNiraula3615)
-    - YouTube - [Devendra Niraula](https://www.youtube.com/@devendraniraula5855)
+   - Abhisek Niraula
+   - Frontend Mentor - [Abhisek Niraula](https://www.frontendmentor.io/profile/AbhisekNiraula3615)
+   - YouTube - [Devendra Niraula](https://www.youtube.com/@devendraniraula5855)
